@@ -1,6 +1,6 @@
 # Casos de Teste
 
-## CT-001 - Login válido
+## [CT-001][AL] Login realizado com credenciais válidas
 
 Pré-condição:
 Usuário cadastrado no sistema e com acesso ativo.
@@ -21,7 +21,7 @@ Status: Aprovado
 
 ---
 
-## CT-002 - Login inválido
+## [CT-002][MD] Tentativa de login com senha inválida
 
 Pré-condição:
 Usuário cadastrado no sistema.
@@ -42,7 +42,7 @@ Status: Reprovado
 
 ---
 
-## CT-003 - Transferência válida
+## [CT-003][AL] Transferência realizada com saldo disponível
 
 Pré-condição:
 Usuário logado no sistema com saldo disponível.
