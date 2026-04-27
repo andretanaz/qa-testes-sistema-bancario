@@ -1,6 +1,6 @@
 # Bugs Reportados
 
-## 🐞 BUG-001 - Login não autentica com credenciais válidas
+## 🐞 BUG-001 - Login não autentica com credenciais válidas 
 
 Descrição:
 Sistema não autentica usuário com dados válidos.
@@ -33,7 +33,7 @@ Impacto:
 Permite inconsistência financeira e risco ao usuário final
 
 Evidência:
-Falha reproduzida durante execução de teste manual
+Falha reproduzida em ambiente de testes durante execução manual
 
 ---
 
@@ -63,7 +63,10 @@ Impacto:
 Permite inconsistência financeira e risco ao usuário final
 
 Evidência:
-Falha reproduzida durante execução de teste manual
+Falha reproduzida em ambiente de testes durante execução manual
+
+---
+
 ## 🐞 BUG-003 - Transferência sem validação de saldo
 
 Descrição:
@@ -96,4 +99,4 @@ Impacto:
 Permite inconsistência financeira e risco ao usuário final
 
 Evidência:
-Falha reproduzida durante execução de teste manual
+Falha reproduzida em ambiente de testes durante execução manual
