@@ -1,6 +1,6 @@
 # Bugs Reportados
 
-## 🐞 BUG-001 - Login não autentica com credenciais válidas 
+## 🐞 [BUG-001][CR] Login não autentica com credenciais válidas
 
 Descrição:
 Sistema não autentica usuário com dados válidos.
@@ -37,7 +37,7 @@ Falha reproduzida em ambiente de testes durante execução manual
 
 ---
 
-## 🐞 Bug 002 - Transferência duplicada
+## 🐞 [BUG-002][AL] Transferência duplicada ao clicar múltiplas vezes
 
 Descrição:
 Sistema realiza duas transferências ao clicar duas vezes no botão.
@@ -67,7 +67,7 @@ Falha reproduzida em ambiente de testes durante execução manual
 
 ---
 
-## 🐞 [CR][RN] Transferência realizada sem saldo suficiente
+## 🐞 [BUG-003][CR][RN] Transferência realizada sem saldo suficiente
 
 Descrição:
 Sistema permite transferência mesmo sem saldo suficiente.
