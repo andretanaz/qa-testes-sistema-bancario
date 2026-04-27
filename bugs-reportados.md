@@ -64,7 +64,6 @@ Permite inconsistência financeira e risco ao usuário final
 
 Evidência:
 Falha reproduzida durante execução de teste manual
-
 ## 🐞 BUG-003 - Transferência sem validação de saldo
 
 Descrição:
