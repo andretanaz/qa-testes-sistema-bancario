@@ -67,7 +67,7 @@ Falha reproduzida em ambiente de testes durante execução manual
 
 ---
 
-## 🐞 BUG-003 - Transferência sem validação de saldo
+## 🐞 [CR][RN] Transferência realizada sem saldo suficiente
 
 Descrição:
 Sistema permite transferência mesmo sem saldo suficiente.
