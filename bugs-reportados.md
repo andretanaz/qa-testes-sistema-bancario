@@ -1,6 +1,6 @@
 # Bugs Reportados
 
-## 🐞 Bug 001 - Falha no login
+## 🐞 BUG-001 - Login não autentica com credenciais válidas
 
 Descrição:
 Sistema não autentica usuário com dados válidos.
@@ -27,7 +27,7 @@ Severidade:
 Alta
 
 Evidência:
-Erro identificado durante execução dos testes manuais
+Falha reproduzida durante execução de teste manual em ambiente de homologação
 
 ---
 
@@ -50,7 +50,7 @@ Duas transações são realizadas
 Severidade:
 Crítica
 
-## 🐞 Bug 003 - Transferência sem validação de saldo
+## 🐞 BUG-003 - Transferência sem validação de saldo
 
 Descrição:
 Sistema permite transferência mesmo sem saldo suficiente.
@@ -75,6 +75,8 @@ Transferência realizada normalmente
 Severidade:
 Crítica
 
+Impacto:
+Permite inconsistência financeira e risco ao usuário final
+
 Evidência:
-Comportamento inconsistente com a regra de negócio
-Severidade: Crítica
+Falha reproduzida durante execução de teste manual
