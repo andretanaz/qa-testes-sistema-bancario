@@ -24,13 +24,16 @@ Resultado atual:
 Sistema retorna erro de autenticação
 
 Severidade:
-Alta
+Crítica
 
 Prioridade:
 Alta
 
+Impacto:
+Permite inconsistência financeira e risco ao usuário final
+
 Evidência:
-Falha reproduzida durante execução de teste manual em ambiente de homologação
+Falha reproduzida durante execução de teste manual
 
 ---
 
@@ -58,6 +61,9 @@ Alta
 
 Impacto:
 Permite inconsistência financeira e risco ao usuário final
+
+Evidência:
+Falha reproduzida durante execução de teste manual
 
 ## 🐞 BUG-003 - Transferência sem validação de saldo
 
