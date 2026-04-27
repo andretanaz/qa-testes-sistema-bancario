@@ -39,3 +39,21 @@ Duas transações são realizadas
 
 Severidade:
 Crítica
+
+## 🐞 Bug 003 - Transferência sem validação de saldo
+
+Descrição:
+Sistema permite realizar transferência mesmo sem saldo suficiente.
+
+Passos:
+1. Acessar área de transferência
+2. Inserir valor maior que o saldo
+3. Confirmar operação
+
+Resultado esperado:
+Sistema bloquear operação e exibir mensagem de saldo insuficiente
+
+Resultado atual:
+Transferência realizada normalmente
+
+Severidade: Crítica
