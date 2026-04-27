@@ -1,6 +1,4 @@
-# 🧪 QA Testes - Sistema Bancário (Simulado)
-
-Projeto prático de Quality Assurance simulando testes em um sistema bancário, com foco em qualidade, confiabilidade e prevenção de falhas.
+Projeto prático de QA simulando testes em sistema bancário, com foco em identificação de falhas críticas, validação de regras de negócio e garantia da qualidade.
 
 ---
 
