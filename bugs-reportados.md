@@ -26,6 +26,9 @@ Sistema retorna erro de autenticação
 Severidade:
 Alta
 
+Prioridade:
+Alta
+
 Evidência:
 Falha reproduzida durante execução de teste manual em ambiente de homologação
 
@@ -49,6 +52,12 @@ Duas transações são realizadas
 
 Severidade:
 Crítica
+
+Prioridade:
+Alta
+
+Impacto:
+Permite inconsistência financeira e risco ao usuário final
 
 ## 🐞 BUG-003 - Transferência sem validação de saldo
 
@@ -74,6 +83,9 @@ Transferência realizada normalmente
 
 Severidade:
 Crítica
+
+Prioridade:
+Alta
 
 Impacto:
 Permite inconsistência financeira e risco ao usuário final
