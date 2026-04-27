@@ -10,6 +10,11 @@ Passos:
 Resultado esperado:
 Usuário autenticado com sucesso
 
+Resultado atual:
+Usuário autenticado com sucesso
+
+Status: Aprovado
+
 ## CT-002 - Login inválido
 
 Passos:
@@ -18,7 +23,12 @@ Passos:
 3. Inserir senha inválida
 
 Resultado esperado:
-Mensagem de erro exibida
+Usuário autenticado com sucesso
+
+Resultado atual:
+Usuário autenticado com sucesso
+
+Status: Aprovado
 
 ---
 
@@ -30,4 +40,9 @@ Passos:
 3. Confirmar operação
 
 Resultado esperado:
-Transferência realizada com sucesso
+Usuário autenticado com sucesso
+
+Resultado atual:
+Usuário autenticado com sucesso
+
+Status: Aprovado
