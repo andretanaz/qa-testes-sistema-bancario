@@ -3,7 +3,7 @@
 ## CT-001 - Login válido
 
 Passos:
-1. Acessar sistema
+1. Acessar página de login
 2. Inserir login válido
 3. Inserir senha válida
 
@@ -18,7 +18,7 @@ Status: Aprovado
 ## CT-002 - Login inválido
 
 Passos:
-1. Acessar sistema
+1. Acessar página de login
 2. Inserir login válido
 3. Inserir senha inválida
 
