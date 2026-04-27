@@ -32,3 +32,7 @@ Simulação de funcionalidades bancárias:
 ## 🚀 Resultado
 
 Projeto desenvolvido para demonstrar experiência prática em QA, com foco em ambientes críticos e sistemas financeiros.
+
+## 💼 Aplicação profissional
+
+Este projeto simula atividades reais de QA em sistemas bancários, evidenciando habilidades práticas em testes, análise de falhas e garantia de qualidade.
