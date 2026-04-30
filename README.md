@@ -34,3 +34,12 @@ Projeto desenvolvido para demonstrar experiência prática em QA, com foco em am
 ## 💼 Aplicação profissional
 
 Este projeto simula atividades reais de QA em sistemas bancários, evidenciando habilidades práticas em testes, análise de falhas e garantia de qualidade.
+
+---
+
+## 🚀 Diferenciais do Projeto
+
+🧪 Execução de testes manuais estruturados  
+🐞 Identificação e documentação de bugs  
+🗄️ Validação de dados com SQL (nível analítico)  
+📋 Simulação de fluxo real com Jira  
