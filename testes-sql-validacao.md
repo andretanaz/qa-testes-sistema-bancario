@@ -17,3 +17,6 @@ Tabela: transferencias (conta_origem, valor)
 SELECT id, saldo
 FROM contas
 WHERE saldo < 0;
+
+## Resultado obtido
+1 registro encontrado → BUG CRÍTICO (saldo negativo identificado)
