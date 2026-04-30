@@ -43,3 +43,12 @@ Este projeto simula atividades reais de QA em sistemas bancários, evidenciando 
 🐞 Identificação e documentação de bugs  
 🗄️ Validação de dados com SQL (nível analítico)  
 📋 Simulação de fluxo real com Jira  
+
+---
+
+## 📊 Métricas do Projeto
+
+📌 +30 cenários de teste  
+📌 +50 casos de teste  
+📌 1 bug crítico identificado  
+📌 Validação com SQL aplicada  
